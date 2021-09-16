@@ -27,7 +27,7 @@ p {
     background-color: white;
 }
 /* Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)*/
-h1.special {
+#special {
     border-style: solid;
     border-color: darkblue;
     border-radius: 2px;
