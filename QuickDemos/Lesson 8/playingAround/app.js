@@ -19,4 +19,3 @@ app.use("/person", personRoutes);
 app.listen(port, function(req, res) {
     console.log('listening on port 3000')
 })
-
