@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+I would most likely use GoDaddy in order to set up my website, as the URL [stingerwebsite.com] is up for grabs and it's less money to use for two years than using a URL such as [stinger.io], which is 59.99 for a year.  I would most likely use docker to help me run my UIs together, as well as help me manage my website's assets.
